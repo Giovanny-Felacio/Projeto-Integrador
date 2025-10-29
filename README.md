@@ -64,8 +64,6 @@ ESTRUTURA DE PASTAS E ARQUIVOS
   JS
   
     script.js
-
-  HTML
   
   cardapio.html
   
