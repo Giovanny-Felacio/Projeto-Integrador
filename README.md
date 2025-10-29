@@ -68,9 +68,13 @@ ESTRUTURA DE PASTAS E ARQUIVOS
   HTML
   
   cardapio.html
+  
   cards.json
+  
   contato.html
+  
   inicio.html
+  
   sobre.html
 
   
