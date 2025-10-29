@@ -1,0 +1,61 @@
+/*Tipografia*/
+h1, h3 {
+  color: #93674b;
+}
+
+p, figcaption, a {
+  color: #444444;
+}
+
+h2 {
+  color: #121212;
+}
+
+/*Botao*/
+.button {
+  transition: background-color 0.3s ease;
+  color: #444444;
+}
+
+.button-active {
+  background-color: #ffb383;
+}
+
+.button:hover, 
+.button:focus {
+  background-color: #edece6;
+}
+
+/*Menu*/
+.card {
+  border: solid .05rem #00000040;
+}
+
+/*Link*/
+.link {
+  color: #93674b;
+}
+
+.link:hover {
+  text-decoration: underline #93674b .12rem;
+  text-underline-offset: .4rem;
+}
+
+.contact {
+  color: #444444;
+}
+
+.contact:hover {
+  text-decoration-color: #444444;
+}
+
+/*Cabecalho*/
+header {
+  background-color: rgb(255, 255, 255);
+  border-bottom: 0.1rem solid #93674b;
+}
+
+/*Imagem*/
+.hero img {
+  box-shadow: 0.4rem 0.4rem 0.4rem 0 #00000040;
+}

@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Inspiration';
+  src: url('../base/fonts/Inspiration-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IndieFlower';
+  src: url('../base/fonts/IndieFlower-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'IndieFlower', cursive;
+}
+
+h1 {
+  font-family: 'Inspiration', cursive;
+}
+
+h1, h3, .button, .link {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+p {
+  font-size: 1.5rem;
+  text-align: justify;
+  line-height: 3rem;
+}
+
+.button, .link {
+  font-size: 1.5rem;
+}
