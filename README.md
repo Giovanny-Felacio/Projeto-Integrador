@@ -37,14 +37,12 @@ ESTRUTURA DE PASTAS E ARQUIVOS
   CSS
   
     BASE
-    
       fonts
       color.css
       layout.css
       typography.css
       
     COMPONENTS
-    
       button.css
       image.css
       menu.css
@@ -55,7 +53,6 @@ ESTRUTURA DE PASTAS E ARQUIVOS
   IMG
   
     SVG
-    
       email.svg
       loaction.svg
       whatsapp.svg
@@ -67,7 +64,9 @@ ESTRUTURA DE PASTAS E ARQUIVOS
   JS
   
     script.js
-    
+
+  HTML
+  
   cardapio.html
   cards.json
   contato.html
