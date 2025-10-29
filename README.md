@@ -35,30 +35,31 @@ HIERARQUIA VISUAL
 ESTRUTURA DE PASTAS E ARQUIVOS
 
   CSS
-  |  BASE
-  |    |  fonts
-  |    |  color.css
-  |    |  layout.css
-  |    |  typography.css
-  |  COMPONENTS
-  |    |button.css
-  |    |image.css
-  |    |menu.css
-  |  reset.css
-  |  style.css
+    BASE
+      fonts
+      color.css
+      layout.css
+      typography.css
+    COMPONENTS
+      button.css
+      image.css
+      menu.css
+    reset.css
+    style.css
   IMG
-  |  SVG
-  |    |email.svg
-  |    |loaction.svg
-  |    |whatsapp.svg
-  |  bolo.jpeg
-  |  pao-de-queijo.jpeg
-  |  pao-frances.jpg
+    SVG
+      email.svg
+      loaction.svg
+      whatsapp.svg
+    bolo.jpeg
+    pao-de-queijo.jpeg
+    pao-frances.jpg
   JS
-  |  script.js
+    script.js
   cardapio.html
   cards.json
   contato.html
   inicio.html
   sobre.html
+
   
