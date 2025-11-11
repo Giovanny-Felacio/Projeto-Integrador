@@ -1,4 +1,4 @@
-# Padaria Veneza
+# PADARIA VENEZA
 
 TEMA: padaria 
 
@@ -8,17 +8,17 @@ PUBLICO ALVO: Pessoas entre 25 e 60 anos e famílias
 
 --------------------------------------------------------------------------------------------------------------
 
-PALETA DE CORES
+# PALETA DE CORES
 
   Tons quentes foram usados para estimular apetite (lembrando pães e massas), enquanto tons neutros (cinza e 
   branco) equilibram e organizam a interface, auxiliando na indetificação visual de elementos.
   visual.
 
-FONTES
+# FONTES
 
   Foram utilizadas as fontes Inspiration e Sun Flower para transmitir suavidade, leveza e acolhimento
 
-HIERARQUIA VISUAL
+# HIERARQUIA VISUAL
 
   Elementos interativos estão onde o usuário espera encontrá-los — botões de navegação no topo, botões de 
   carrosel na horizontal.
@@ -29,7 +29,8 @@ HIERARQUIA VISUAL
   o olhar intuitivamente. Ex: na página de início, o usuário primeiro vê a imagem hero e depois lê o conteúdo 
   textual.
 
-ESTRUTURA DE PASTAS E ARQUIVOS
+# ESTRUTURA DE PASTAS E ARQUIVOS
+
   CSS
   
     BASE
