@@ -32,11 +32,13 @@ HIERARQUIA VISUAL
 ESTRUTURA DE PASTAS E ARQUIVOS
 
   CSS
+  
     BASE
       fonts
       color.css
       layout.css
-      typography.css   
+      typography.css
+      
     COMPONENTS
       button.css
       image.css
@@ -45,10 +47,12 @@ ESTRUTURA DE PASTAS E ARQUIVOS
     style.css
     
   IMG
+  
     SVG
       email.svg
       loaction.svg
       whatsapp.svg
+      
     bolo.jpeg
     pao-de-queijo.jpeg
     pao-frances.jpg
