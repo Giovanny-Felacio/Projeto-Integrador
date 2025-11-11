@@ -1,0 +1,26 @@
+[
+  {
+    "h3": "Pão Francês",
+    "img": {
+      "src": "img/pao-frances.jpg",
+      "alt": "Pão Francês"
+    },
+    "p": "Nosso clássico pão francês é assado diariamente com casca dourada e crocante, e miolo leve e macio. Ideal para o café da manhã, lanches ou para acompanhar refeições, ele é feito com fermentação controlada e farinha de qualidade, garantindo sabor e textura inconfundíveis."
+  },
+  {
+    "h3": "Pão de Queijo",
+    "img": {
+      "src": "img/pao-de-queijo.jpg",
+      "alt": "Pão de Queijo"
+    },
+    "p": "Quentinho, macio por dentro e levemente crocante por fora. Feito com queijo de verdade e polvilho selecionado. Ideal para qualquer hora: café, lanche ou pausa saborosa."
+  },
+  {
+    "h3": "Bolo de Limão",
+    "img": {
+      "src": "img/bolo-de-limao.jpg",
+      "alt": "Bolo de Limão"
+    },
+    "p": "Massa fofinha com toque cítrico e refrescante de limão. Cobertura suave com glacê de limão natural. Perfeito para acompanhar um café ou adoçar o dia."
+  }
+]

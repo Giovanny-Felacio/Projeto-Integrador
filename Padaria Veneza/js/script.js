@@ -10,14 +10,13 @@ window.addEventListener('resize', calcDiagonalViewport);
 window.addEventListener('load', calcDiagonalViewport);
 
 
-
 function updateCard(index) {
   const carousel = document.getElementById('carousel');
   const offset = -index * 100;
   carousel.style.transform = `translateX(${offset}%)`;
 }
 
-fetch('cards.json')
+fetch('js/cards.json')
   .then(res => res.json())
   .then(data => {
     let cardJson = data;
@@ -53,4 +52,5 @@ fetch('cards.json')
       updateCard(j);
     };
   })
+
 
