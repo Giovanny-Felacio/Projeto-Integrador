@@ -58,10 +58,12 @@ ESTRUTURA DE PASTAS E ARQUIVOS
     pao-frances.jpg
     
   JS
+  
     cards.json
     script.js
 
   HTML
+  
     cardapio.html
     contato.html
     inicio.html
