@@ -1,12 +1,10 @@
 # Padaria Veneza
 
-TEMA: padaria artesanal especializada em delícias mineiras, com destaque para o pão de queijo, broa de fubá, 
-biscoitos caseiros e cafés especiais.
+TEMA: padaria 
 
-OBJETIVO: oferecer uma experiência acolhedora e autêntica
+OBJETIVO: oferecer uma experiência autêntica
   
-PUBLICO ALVO: Pessoas entre 25 e 60 anos, famílias ou turistas em busca de um café da manhã ou um lanche que 
-valorizam produtos artesanais e experiências gastronômicas únicas
+PUBLICO ALVO: Pessoas entre 25 e 60 anos e famílias 
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -18,13 +16,12 @@ PALETA DE CORES
 
 FONTES
 
-  Pensando em um público interessado por massas e alimentos, foram utilizadas as fontes Inspiration e Sun Flower 
-  para transmitir suavidade, leveza e acolhimento
+  Foram utilizadas as fontes Inspiration e Sun Flower para transmitir suavidade, leveza e acolhimento
 
 HIERARQUIA VISUAL
 
   Elementos interativos estão onde o usuário espera encontrá-los — botões de navegação no topo, botões de 
-  carrosel na horizontal 
+  carrosel na horizontal.
   
   Acessibilidade: Botões grandes e bem espaçados facilitam o toque em dispositivos móveis.
   
@@ -35,44 +32,35 @@ HIERARQUIA VISUAL
 ESTRUTURA DE PASTAS E ARQUIVOS
 
   CSS
-  
     BASE
       fonts
       color.css
       layout.css
-      typography.css
-      
+      typography.css   
     COMPONENTS
       button.css
       image.css
-      menu.css
-      
+      menu.css 
     reset.css
     style.css
     
   IMG
-  
     SVG
       email.svg
       loaction.svg
       whatsapp.svg
-      
     bolo.jpeg
     pao-de-queijo.jpeg
     pao-frances.jpg
     
   JS
-  
+    cards.json
     script.js
-  
-  cardapio.html
-  
-  cards.json
-  
-  contato.html
-  
-  inicio.html
-  
-  sobre.html
+
+  HTML
+    cardapio.html
+    contato.html
+    inicio.html
+    sobre.html
 
   
